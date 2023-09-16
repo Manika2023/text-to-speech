@@ -80,3 +80,9 @@ select{
 
     background-position-y: calc(100%-20px);
 }
+
+@media screen and (max-width:991px){
+     select{
+          width: 100%;
+     }
+}
